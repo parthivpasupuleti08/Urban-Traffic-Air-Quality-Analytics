@@ -20,5 +20,14 @@ This project analyses Berlin's urban traffic, air quality and weather patterns u
 ## Issues and Solutions
 Project issues, troubleshooting and their solutions will be documented throughout development.
 
-## Technologies
-Python,Jupyter Notebook.
+
+## Technologies & Tools
+- **Python 3.11 or newer** – Main programming language for data processing and analysis.
+- **Visual Studio Code (VS Code)** – Code editor with Python and Jupyter extensions.
+- **Git** – Version control and tracking code changes.
+- **GitHub** – Repository hosting and team collaboration.
+- **PostgreSQL 16** – Database management and data storage.
+- **pgAdmin 4** – Database administration.
+- **Jupyter Notebook** – Data analysis, coding and exploratory data analysis.
+- **Tableau** – Data visualisation, interactive charts and dashboard development.
+- **Microsoft Teams** – Team communication, meetings and task management.
