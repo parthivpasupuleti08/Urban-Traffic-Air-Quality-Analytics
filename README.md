@@ -21,4 +21,4 @@ This project analyses Berlin's urban traffic, air quality and weather patterns u
 Project issues, troubleshooting and their solutions will be documented throughout development.
 
 ## Technologies
-Python, Pandas, NumPy, Matplotlib, Seaborn and Jupyter Notebook.
+Python,Jupyter Notebook.
